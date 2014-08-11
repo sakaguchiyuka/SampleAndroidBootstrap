@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/android/lib/Android-Bootstrap/AndroidBootstrap/AndroidBootstrap.iml" filepath="$USER_HOME$/android/lib/Android-Bootstrap/AndroidBootstrap/AndroidBootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/SampleAndroidBootstrap.iml" filepath="$PROJECT_DIR$/SampleAndroidBootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
